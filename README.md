@@ -1,5 +1,3 @@
-Absolutely. Here is a **complete GitHub-ready `README.md`** for your current Sentinel Secure project, with **placeholders for all screenshots**. You can keep your screenshots in something like `assets/screenshots/` and replace the placeholder paths later.
-
 ````markdown
 # Sentinel Secure
 
