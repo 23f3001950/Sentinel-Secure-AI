@@ -202,10 +202,6 @@ Generated Answer
 * FAISS for vector similarity search
 * Google Gemini for question answering
 
-**Screenshot — Document Upload:**
-
-![Document Upload](assets/screenshots/document-upload.png)
-
 ---
 
 ### Document Processing
@@ -219,10 +215,6 @@ The document is:
 3. Converted into vector embeddings
 4. Stored in a FAISS vector index
 5. Retrieved based on the user's question
-
-**Screenshot — Document Processing:**
-
-![Document Processing](assets/screenshots/document-processing.png)
 
 ---
 
@@ -347,8 +339,6 @@ SENTINEL-SECURE/
 │
 └── sentinel_secure.db
 ```
-
-> `sentinel_secure.db` and `.env` should not be committed to GitHub.
 
 ---
 
@@ -692,17 +682,6 @@ Potential improvements include:
 
 ---
 
-## Document Upload
-
-![Document Upload](assets/screenshots/document-upload.png)
-
----
-
-## Document Processing
-
-![Document Processing](assets/screenshots/document-processing.png)
-
----
 
 ## Document Question Answering
 
